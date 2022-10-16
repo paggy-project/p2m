@@ -1,2 +1,2 @@
-# projmngr
+# paggy-pm
 Project Manager
